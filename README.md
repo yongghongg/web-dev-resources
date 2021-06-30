@@ -12,9 +12,9 @@ List of resources that I find useful
 -[Daily Dev Personalized News Page](https://daily.dev/)
 
 # Portfolio/Resume/GitHub Page
-##GitHub related:
--[GitHub Profile ReadMe](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
--[GitHub ReadMe Stats](https://github.com/anuraghazra/github-readme-stats#themes)
+## GitHub related
+- [GitHub Profile ReadMe](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
+- [GitHub ReadMe Stats](https://github.com/anuraghazra/github-readme-stats#themes)
 
 # Icons
 - [Simple Icons](https://simpleicons.org/?q=mongo)
