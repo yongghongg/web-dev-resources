@@ -5,11 +5,19 @@ List of resources that I find useful
 - [freeCodeCamp]
 - [LeetCode]
 
-# YouTube Tutorial
+# Blogs/News
+- [Medium](https://medium.com)
+- [HackerNews]
+- [Daily Dev Personalized News Page](https://daily.dev/)
+- [TechCrunch]
+- [Dev.to]
+
+# Cloud related
+- [AZ-900 Fundamentals](https://www.youtube.com/watch?v=NKEFWyqJ5XA&t=318s)
 
 
 # Useful Extensions/Tool
--[Daily Dev Personalized News Page](https://daily.dev/)
+- 
 
 # Portfolio/Resume/GitHub Page
 ## GitHub related
