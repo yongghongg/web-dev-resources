@@ -5,6 +5,12 @@ List of resources that I find useful
 - [freeCodeCamp]
 - [LeetCode]
 
+# Learning Platform
+- [PluralSight]
+- [Udemy]
+- [Coursera]
+- 
+
 # Blogs/News
 - [Medium](https://medium.com)
 - [HackerNews]
@@ -13,7 +19,9 @@ List of resources that I find useful
 - [Dev.to]
 
 # Cloud related
+## AZ-900
 - [AZ-900 Fundamentals](https://www.youtube.com/watch?v=NKEFWyqJ5XA&t=318s)
+- [Microsoft Learn]
 
 
 # Useful Extensions/Tool
